@@ -1,1 +1,1 @@
-# DES
+# DES : Data Encryption Standard (Cryptoghraphy)
